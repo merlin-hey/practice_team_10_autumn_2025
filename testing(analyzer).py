@@ -1,5 +1,5 @@
 from data_processing import WoodIndustryDataProcessor
-from analyzer import WoodIndustryAnalyzer
+from practice_team_10_autumn_2025.analyzer import WoodIndustryAnalyzer
 
 print("Тестируем модуль аналитики")
 print("=" * 40)
