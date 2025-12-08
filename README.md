@@ -8,7 +8,7 @@
 
 Проект реализован на Python с использованием библиотек: pandas, numpy, matplotlib, re, collections. Он состоит из двух модулей (`data_processing.py`, `analyzer.py`) и Jupyter Notebook (`final_analysis.ipynb`) для демонстрации.
 
-Также был проведён анализ данных в Excel:
+### Также был проведён анализ данных в Excel:
 
 Завершен комплексный анализ данных по компаниям за 2022-2024 гг.
 
