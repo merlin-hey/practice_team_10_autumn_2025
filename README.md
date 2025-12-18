@@ -1,4 +1,3 @@
-```markdown
 # Анализ рынка деревообрабатывающей отрасли России (2022–2024 гг.)
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)
